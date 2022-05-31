@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-💬 My name is Victor, I'm a Game Developer and ex full stack developer with some experience in Unity, C#, Vue.js e Flutter.
-⚡ I have a degree in Digital Games, having also received a honours degree (láurea acadêmica).
+💬 My name is Victor, I'm a Game Developer and ex full stack developer with some experience in Unity, C#, Vue.js e Flutter. I have a degree in Digital Games, having also received a honours degree (láurea acadêmica).
 
 🌱 I like to study everything game related and a lot of different topics about web development.
 
